@@ -83,12 +83,6 @@ input,textarea{
 
 /* ===============MEDIA QUERIES(TABLES)========== */
 @media screen and ( max-width: 1024px ) {
-   .contact{
-    /**/
-   }
-   /* body{
-    display: none;
-   } */
    .contact_container{
     gap: 1.5rem;
     margin-top: 3rem;
